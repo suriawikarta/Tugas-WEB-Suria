@@ -1,0 +1,33 @@
+body {padding: 0; margin: 0; background: #FFF6ED;}
+.wrapper {width: 70%; margin: 0 auto;}
+.menu1{background: #FFF6ED;}
+.menu1 img {float: left;}
+.logo {float: left; color: #22C790;}
+.menu{float: right;}
+.menu ul {list-style: none; margin: 0;padding:0;text-align: center;}
+.menu ul li {position: relative;float: left;}
+.menu ul li a {padding: 35px 23px; display: block; text-decoration: none; color: #22C790}
+.menu ul li a:hover {background: #22C790; color: #FFF6ED}
+.menu ul ul {position: absolute; display: none}
+.menu ul li:hover > ul {display: block;}
+.menu ul ul {color: black}
+.clear {clear: both;}
+.The {background:#22C790; padding: 50px}
+.The h1 {margin-bottom: 0px; margin-top: 0px; color: white; text-align: center;}
+.The h2 {color: #92DFC5; text-align: center;}
+.The ul {list-style: none; margin: 0 auto; text-align: center;}
+.The ul li {position: relative;display: inline-block;}
+.The ul li a {display: inline-block;text-decoration: none; background: #2F3368;padding: 20px 50px; border-radius: 15%;color: #FFF6ED}
+.about {background: #FFF6ED; padding:70px;}
+.about h2 {text-align: center; color: black; margin-bottom: 0px;margin-top: 0px; padding: 30px}
+.about p {text-align: center;}
+.free {background: #22C790; padding: 70px; height: 1000px}
+.free h2 {text-align: center;color: #FFF6ED; margin-bottom: 0px; margin-top: 0px; padding: 50px}
+.kotak {width: 30%; margin: 1%; float: left; background: #FFF6ED;height: 175px}
+.text {width: 30%; margin: 1%; float: left; color: #FFF6ED;}
+.text h3 , .text p {text-align: center;}
+.text h3 a {text-decoration: none;}
+.text h3 a:hover {color: #FFF6ED}
+.The p {text-align: center; color: #FFF6ED}
+.footer  {background: #092107; padding: 5px; color: #FFF6ED }
+.footer a {text-decoration: none; color: #FFF6ED}
